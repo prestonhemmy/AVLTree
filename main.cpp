@@ -1,7 +1,7 @@
 /**
 * COP3503 - Project 1 - Gator AVL Tree
 * @author Preston Hemmy
-* @version 2.0
+* @version .0
 */
 
 #include "tree.h"
