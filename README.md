@@ -20,4 +20,5 @@ The following code was developed and tested from 9/22/2024 to 10/4/2024 as part 
     printPostorder
     printLevelCount
 
-    Names may contain spaces and should be placed in double quotation marks. IDs must be eight digits. The first input denotes the number of lines or the total number of commands that follow.
+    Names may contain spaces and should be placed in double quotation marks. IDs must be eight digits.
+    The first input denotes the number of lines or the total number of commands that follow.
