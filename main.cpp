@@ -33,6 +33,22 @@ bool isValidID(int id) {
 int main() {
     AVLTree tree;
 
+    cout << "Usage:\n\n"
+
+         << "\tinsert <name> <id>\n"
+         << "\tsearch <id>\n"
+         << "\tsearch <name>\n"
+         << "\tremove <id>\n"
+         << "\tremoveInorder <n>\n"
+         << "\tprintInorder\n"
+         << "\tprintPreorder\n"
+         << "\tprintPostorder\n"
+         << "\tprintLevelCount\n\n"
+
+         << "\tNames may contain spaces and should be placed in double quotation marks.\n"
+         << "\tIDs must be eight digits.\n"
+         << "\tThe first input denotes the number of lines or the total number of commands that follow.\n\n";
+
     int num_commands;
     cin >> num_commands;
     cin.ignore();
